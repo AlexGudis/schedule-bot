@@ -14,6 +14,10 @@ pytz = "*"
 pre-commit = "*"
 flake8 = "*"
 pydocstyle = "*"
+pytest = "*"
+pytest-asyncio = "*"
+pytest-cov = "*"
+aiogram-test = "*"
 
 [requires]
 python_version = "3.12"
